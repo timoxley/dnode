@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "tap": "0.0.x",
+    "tap-runner": "0.0.7",
     "browserify": "1.4.x",
     "uglify-js": "1.0.6",
     "express": "2.2.2"
